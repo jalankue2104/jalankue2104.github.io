@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Young+Serif&display=swap');
+
+body {
+    font-family: 'Libre Baskerville', serif;
+}
+
+.aray-ab-box {
+    background-color: rgb(1, 56, 128);
+}
+
+.aray-ab-word-1 {
+    color: white;
+}
+
+.aray-ab-word-2 {
+    color: rgb(255, 196, 16);
+}
+
+.aray-atj {
+    background-color: rgb(245, 245, 245);
+}
+
+.aray-atj-img {
+    border: 15px;
+    border-color: black;
+}
+.aray-atj-h {
+    color: rgb(0, 53, 107);
+}
+
+.aray-atj-u{
+    color: rgb(99, 177, 255);
+}
+
+
+
+.aray-exb {
+    background-color: whitesmoke;
+}
+
+.aray-exb-h {
+ color: rgb(42, 46, 58);
+}
+
+.aray-exb-u{
+color: rgb(162, 14, 32);
+}
+
+.aray-exb-p {
+color: rgb(215, 62, 80);
+}
+
+.aray-form {
+    background-color: black;
+}
+
+.aray-form-judul {
+     color: rgb(99, 177, 255);
+}
+
+.aray-form-deskripsi{
+    color: lightgray;
+}
+
+label {
+    color: rgb(99, 177, 255);
+}
